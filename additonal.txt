@@ -1,0 +1,2 @@
+Additional Features Implemented:
+is_open - binary value, is the establishment open or not
